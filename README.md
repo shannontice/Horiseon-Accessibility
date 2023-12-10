@@ -6,7 +6,7 @@ In this project we refactored code that was given to us.  We went through the HT
 
 ## Repository
 
-Link to deployed code:  <https://github.com/shannontice/Horiseon-Accessibility/edit/main/README.md>
+Link to deployed code:  <https://github.com/shannontice/Horiseon-Accessibility/>
 
 ## Technologies
 
